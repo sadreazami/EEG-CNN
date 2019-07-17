@@ -5,5 +5,6 @@ We propose new MI-BCI EEG signal classification using STCSP feature extraction w
 H. Sadreazami, Y. Mohamadtaheri and M. Amini, Hierarchical Spectral-Temporal Feature Learning for Action Recognition in MI-BCI Systems, THMS, 2019.
 
 The code will be made available soon.
+The data may be downloaded from http://www.bbci.de/competition/iii/. 
 
 Contact me if you have any questions.
